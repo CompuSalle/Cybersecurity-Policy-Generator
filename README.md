@@ -4,7 +4,6 @@ This Python script generates customizable cybersecurity policy documents for bus
 ## How to use
 To use the policy generator, simply set the **company_name** variable to the name of your company and call the **generate_policy** function. The function will return a string containing the generated policy document.
 
-Copy code
 ```python
 import policy_generator
 
