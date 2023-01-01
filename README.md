@@ -7,7 +7,7 @@ To use the policy generator, simply set the **company_name** variable to the nam
 ```python
 import policy_generator
 
-company_name = "ACME Corporation"
+company_name = "Compusalle Company"
 policy = policy_generator.generate_policy(company_name)
 print(policy)
 ```
